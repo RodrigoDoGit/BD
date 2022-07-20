@@ -1,0 +1,2 @@
+DELETE FROM STREAM
+WHERE Charge > 10;
