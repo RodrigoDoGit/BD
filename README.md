@@ -3,6 +3,6 @@ Neste repositório está o código relativo à Unidade Curricular de Bases de Da
 
 | Diretório              | Descrição |
 | :--------------------- | :---------------------------------------------------------------------------------------- |
-| Apps com SQL Embebido  | Exemplos de aplicações Python com SQL embebidos dados como exemplo/base para o projeto |
+| Apps com SQL Embebido  | Exemplos de aplicações Python com SQL embebido dados como exemplo/base para o projeto |
 | Exemplos SQL           | Código fonte dado como base para resolução dos exercícios das aulas práticas |
 | Práticas               | Resolução dos exercícios das aulas práticas | 
