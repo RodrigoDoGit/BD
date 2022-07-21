@@ -1,1 +1,8 @@
-Este repositório contém as resoluções dos exercícios de Bases de Dados do Ano Letivo 2021/2022.
+# Bases de Dados (CC2005)
+Neste repositório está o código relativo à Unidade Curricular de Bases de Dados do Ano Letivo 2021/2022.
+
+| Diretório              | Descrição |
+| :--------------------- | :---------------------------------------------------------------------------------------- |
+| Apps com SQL Embebido  | Exemplos de aplicações Python com SQL embebidos dados como exemplo/base para o projeto |
+| Exemplos SQL           | Código fonte dado como base para resolução dos exercícios das aulas práticas |
+| Práticas               | Resoluç
