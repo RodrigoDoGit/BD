@@ -1,5 +1,5 @@
 # Bases de Dados (CC2005)
-Neste repositório está o código relativo à Unidade Curricular de Bases de Dados do Ano Letivo 2021/2022.
+Neste repositório está o código relativo à Unidade Curricular de Bases de Dados do Ano Letivo 2021/2022 - DCC/FCUP.
 
 | Diretório              | Descrição |
 | :--------------------- | :---------------------------------------------------------------------------------------- |
