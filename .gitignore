@@ -1,2 +1,2 @@
 # Ignorar ficheiros com extensão .sql~
-.sql~
+*.sql~
