@@ -1,7 +1,0 @@
-DELETE FROM STREAM
-WHERE 
- CustomerId IN(
-  SELECT CustomerId FROM CUSTOMER
-  JOIN COUNTRY ON(CUSTOMER.Country = COUNTRY.Name)
-  WHERE COUNTRY.Name = 'China' AND Charge <= 5.5
-);

@@ -1,7 +1,0 @@
-SELECT Title, StreamDate, Charge
-FROM MOVIE
-NATURAL JOIN STREAM
-NATURAL JOIN MOVIE_GENRE
-NATURAL JOIN GENRE
-WHERE Month(StreamDate) = 12 AND Year(StreamDate) = 2017 AND Label = 'Thriller'
-ORDER BY Title, StreamDate DESC;
