@@ -1,8 +1,8 @@
-# Bases de Dados (CC2005)
-Neste repositório está o código relativo à Unidade Curricular de Bases de Dados do Ano Letivo 2021/2022 - DCC/FCUP.
+# Databases (CC2005)
+This repository contains the code for Databases Course Unit of 2021/2022 Academic Year - DCC/FCUP.
 
-| Diretório              | Descrição |
+| Folder             | Description |
 | :--------------------- | :---------------------------------------------------------------------------------------- |
-| Apps com SQL Embebido  | Exemplos de aplicações Python com SQL embebido dados como exemplo/base para o projeto |
-| Exemplos SQL           | Código fonte dado como base para resolução dos exercícios das aulas práticas |
-| Práticas               | Resolução dos exercícios das aulas práticas | 
+| Apps with Embedded SQL  | Examples of Python applications with embedded SQL embebido given as example and base for the project |
+| SQL Examples           | Source code given as base to solve the lab classes exercises |
+| Lab Classes               | Resolutions of the lab classes exercises | 

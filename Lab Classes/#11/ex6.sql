@@ -1,0 +1,13 @@
+DELETE FROM MOVIE_ACTOR
+WHERE
+ MovieId IN (
+  SELECT MovieId
+  FROM MOVIE_GENRE
+  NATURAL JOIN GENRE
+  WHERE Label = 'Action'
+ )
+
+ AND MovieID NOT IN (
+  SELECT MovieId
+  FROM STREAM
+ );
